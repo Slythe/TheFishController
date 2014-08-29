@@ -1,0 +1,21 @@
+﻿Build started 29/08/2014 23:00:17.
+     1>Project "E:\Users\Slyman\My Documents\clones\TheFishController\src\TheFishController.TankMate\TheFishController.TankMate.vcxproj" on node 2 (Build target(s)).
+     1>BuildArduinoCoreLibrary:
+         "C:\Program Files (x86)\Arduino\hardware\tools\avr\bin\avr-ar" rcs "obj\Debug\Core\ArduinoLib.a" "obj\Debug\Core\CDC.o" "obj\Debug\Core\HardwareSerial.o" "obj\Debug\Core\HID.o" "obj\Debug\Core\IPAddress.o" "obj\Debug\Core\main.o" "obj\Debug\Core\new.o" "obj\Debug\Core\Print.o" "obj\Debug\Core\Stream.o" "obj\Debug\Core\Tone.o" "obj\Debug\Core\USBCore.o" "obj\Debug\Core\WMath.o" "obj\Debug\Core\WString.o" "obj\Debug\Core\WInterrupts.o" "obj\Debug\Core\wiring.o" "obj\Debug\Core\wiring_analog.o" "obj\Debug\Core\wiring_digital.o" "obj\Debug\Core\wiring_pulse.o" "obj\Debug\Core\wiring_shift.o"
+       BuildArduinoUserLibrary:
+         "C:\Program Files (x86)\Arduino\hardware\tools\avr\bin\avr-ar" rcs "obj\Debug\\ArduinoUserLib\ArduinoUserLib.a" "obj\Debug\\ArduinoUserLib\EEPROM\EEPROM.o"
+         "C:\Program Files (x86)\Arduino\hardware\tools\avr\bin\avr-ar" rcs "obj\Debug\\ArduinoUserLib\ArduinoUserLib.a" "obj\Debug\\ArduinoUserLib\SPI\SPI.o"
+         "C:\Program Files (x86)\Arduino\hardware\tools\avr\bin\avr-ar" rcs "obj\Debug\\ArduinoUserLib\ArduinoUserLib.a" "obj\Debug\\ArduinoUserLib\SD\File.o"
+         "C:\Program Files (x86)\Arduino\hardware\tools\avr\bin\avr-ar" rcs "obj\Debug\\ArduinoUserLib\ArduinoUserLib.a" "obj\Debug\\ArduinoUserLib\SD\SD.o"
+         "C:\Program Files (x86)\Arduino\hardware\tools\avr\bin\avr-ar" rcs "obj\Debug\\ArduinoUserLib\ArduinoUserLib.a" "obj\Debug\\ArduinoUserLib\SD\Sd2Card.o"
+         "C:\Program Files (x86)\Arduino\hardware\tools\avr\bin\avr-ar" rcs "obj\Debug\\ArduinoUserLib\ArduinoUserLib.a" "obj\Debug\\ArduinoUserLib\SD\SdFile.o"
+         "C:\Program Files (x86)\Arduino\hardware\tools\avr\bin\avr-ar" rcs "obj\Debug\\ArduinoUserLib\ArduinoUserLib.a" "obj\Debug\\ArduinoUserLib\SD\SdVolume.o"
+       Build:
+         
+         E:\Users\Slyman\My Documents\clones\TheFishController\src\TheFishController.TankMate\\bin\Debug\TheFishController.TankMate.elf
+         E:\Users\Slyman\My Documents\clones\TheFishController\src\TheFishController.TankMate\\bin\Debug\TheFishController.TankMate.elf
+     1>Done Building Project "E:\Users\Slyman\My Documents\clones\TheFishController\src\TheFishController.TankMate\TheFishController.TankMate.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.40
