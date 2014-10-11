@@ -54,6 +54,12 @@ long lastTemperatureReadingMillis = 0;
 float cumulativeReadingTemperature;
 
 
+
+long lightingInterval = 57600000;
+long lastLightingIntervalMillis = 0;
+
+
+
 float lastTempReding;
 colourValues currentColour;
 
@@ -287,7 +293,7 @@ void propogateTempratureReading(float currentTemp){
 void loop()
 {
 
-	//setLEDColour();
+	setLEDColour();
 
 
 	if (shouldReadTemperature()){
@@ -315,6 +321,6 @@ void loop()
 	}
 	
 	//TODO: Remove this delay
-	delay(250);
+	//delay(1000);
 
 }
